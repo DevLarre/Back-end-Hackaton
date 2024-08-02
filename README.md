@@ -46,6 +46,7 @@ O projeto está organizado nas seguintes camadas:
     - `messages.properties`
 
 ## Aplication Properties.
+- **alterações**: Faça as mudanças abaixo para garantir o funcionamento do projeto.
     - `Lembre-se de alterar os campos para o seu de uso pessoal.
     - `spring.mail.username= email@email.com
     - `spring.mail.password=sua chave aqui
