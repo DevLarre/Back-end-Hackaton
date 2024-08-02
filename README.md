@@ -45,6 +45,13 @@ O projeto está organizado nas seguintes camadas:
     - `application.properties`
     - `messages.properties`
 
+## Aplication Properties.
+    - `Lembre-se de alterar os campos para o seu de uso pessoal.
+    - `spring.mail.username= email@email.com
+    - `spring.mail.password=sua chave aqui
+    - `blogger.api.key=aqui vai sua api key
+    - `blogger.blog.id=00000
+
 ## Funcionalidades do Projeto 🛠️ e segurança 🔒
 
 - **Sistema XSS Prevention**: Implementado para prevenir ataques XSS através de formulários no site da empresa. 🔒
